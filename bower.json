@@ -1,0 +1,21 @@
+{
+  "name": "angular-route-component",
+  "homepage": "https://github.com/buster95/angular-route-component",
+  "authors": [
+    "Walter Corrales <corraleswalter@live.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    ".gitignore"
+  ],
+  "dependencies": {
+    "angular": "^1.5.0"
+  }
+}
